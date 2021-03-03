@@ -1,6 +1,8 @@
 import Foundation
 import UIKit
 
+// TODO: - Need to implement error handling
+
 enum APICredentials {
     static let endPoint = "https://api.harvardartmuseums.org"
     static let apiKey = "4022211f-b892-451a-870f-9b3e96bf7cfe"
